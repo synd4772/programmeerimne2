@@ -1,0 +1,14 @@
+C:\Projects\c#\programmeerimine\Pindala\bin\Debug\net8.0\Pindala.exe
+C:\Projects\c#\programmeerimine\Pindala\bin\Debug\net8.0\Pindala.deps.json
+C:\Projects\c#\programmeerimine\Pindala\bin\Debug\net8.0\Pindala.runtimeconfig.json
+C:\Projects\c#\programmeerimine\Pindala\bin\Debug\net8.0\Pindala.dll
+C:\Projects\c#\programmeerimine\Pindala\bin\Debug\net8.0\Pindala.pdb
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\Pindala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\Pindala.AssemblyInfoInputs.cache
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\Pindala.AssemblyInfo.cs
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\Pindala.csproj.CoreCompileInputs.cache
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\Pindala.dll
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\refint\Pindala.dll
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\Pindala.pdb
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\Pindala.genruntimeconfig.cache
+C:\Projects\c#\programmeerimine\Pindala\obj\Debug\net8.0\ref\Pindala.dll

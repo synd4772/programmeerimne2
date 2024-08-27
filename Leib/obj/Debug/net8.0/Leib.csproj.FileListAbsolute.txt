@@ -1,0 +1,14 @@
+C:\Projects\c#\programmeerimine\Leib\bin\Debug\net8.0\Leib.exe
+C:\Projects\c#\programmeerimine\Leib\bin\Debug\net8.0\Leib.deps.json
+C:\Projects\c#\programmeerimine\Leib\bin\Debug\net8.0\Leib.runtimeconfig.json
+C:\Projects\c#\programmeerimine\Leib\bin\Debug\net8.0\Leib.dll
+C:\Projects\c#\programmeerimine\Leib\bin\Debug\net8.0\Leib.pdb
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\Leib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\Leib.AssemblyInfoInputs.cache
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\Leib.AssemblyInfo.cs
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\Leib.csproj.CoreCompileInputs.cache
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\Leib.dll
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\refint\Leib.dll
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\Leib.pdb
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\Leib.genruntimeconfig.cache
+C:\Projects\c#\programmeerimine\Leib\obj\Debug\net8.0\ref\Leib.dll

@@ -1,0 +1,14 @@
+C:\Projects\c#\programmeerimine\Juku\bin\Debug\net8.0\Juku.exe
+C:\Projects\c#\programmeerimine\Juku\bin\Debug\net8.0\Juku.deps.json
+C:\Projects\c#\programmeerimine\Juku\bin\Debug\net8.0\Juku.runtimeconfig.json
+C:\Projects\c#\programmeerimine\Juku\bin\Debug\net8.0\Juku.dll
+C:\Projects\c#\programmeerimine\Juku\bin\Debug\net8.0\Juku.pdb
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\Juku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\Juku.AssemblyInfoInputs.cache
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\Juku.AssemblyInfo.cs
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\Juku.csproj.CoreCompileInputs.cache
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\Juku.dll
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\refint\Juku.dll
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\Juku.pdb
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\Juku.genruntimeconfig.cache
+C:\Projects\c#\programmeerimine\Juku\obj\Debug\net8.0\ref\Juku.dll

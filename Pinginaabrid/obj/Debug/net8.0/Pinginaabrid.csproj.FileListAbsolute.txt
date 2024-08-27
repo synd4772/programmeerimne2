@@ -1,0 +1,14 @@
+C:\Projects\c#\programmeerimine\Pinginaabrid\bin\Debug\net8.0\Pinginaabrid.exe
+C:\Projects\c#\programmeerimine\Pinginaabrid\bin\Debug\net8.0\Pinginaabrid.deps.json
+C:\Projects\c#\programmeerimine\Pinginaabrid\bin\Debug\net8.0\Pinginaabrid.runtimeconfig.json
+C:\Projects\c#\programmeerimine\Pinginaabrid\bin\Debug\net8.0\Pinginaabrid.dll
+C:\Projects\c#\programmeerimine\Pinginaabrid\bin\Debug\net8.0\Pinginaabrid.pdb
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\Pinginaabrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\Pinginaabrid.AssemblyInfoInputs.cache
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\Pinginaabrid.AssemblyInfo.cs
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\Pinginaabrid.csproj.CoreCompileInputs.cache
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\Pinginaabrid.dll
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\refint\Pinginaabrid.dll
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\Pinginaabrid.pdb
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\Pinginaabrid.genruntimeconfig.cache
+C:\Projects\c#\programmeerimine\Pinginaabrid\obj\Debug\net8.0\ref\Pinginaabrid.dll

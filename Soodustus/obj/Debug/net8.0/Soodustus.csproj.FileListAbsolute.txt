@@ -1,0 +1,14 @@
+C:\Projects\c#\programmeerimine\Soodustus\bin\Debug\net8.0\Soodustus.exe
+C:\Projects\c#\programmeerimine\Soodustus\bin\Debug\net8.0\Soodustus.deps.json
+C:\Projects\c#\programmeerimine\Soodustus\bin\Debug\net8.0\Soodustus.runtimeconfig.json
+C:\Projects\c#\programmeerimine\Soodustus\bin\Debug\net8.0\Soodustus.dll
+C:\Projects\c#\programmeerimine\Soodustus\bin\Debug\net8.0\Soodustus.pdb
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\Soodustus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\Soodustus.AssemblyInfoInputs.cache
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\Soodustus.AssemblyInfo.cs
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\Soodustus.csproj.CoreCompileInputs.cache
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\Soodustus.dll
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\refint\Soodustus.dll
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\Soodustus.pdb
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\Soodustus.genruntimeconfig.cache
+C:\Projects\c#\programmeerimine\Soodustus\obj\Debug\net8.0\ref\Soodustus.dll
