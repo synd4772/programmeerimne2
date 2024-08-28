@@ -1,0 +1,14 @@
+C:\Projects\c#\programmeerimine\Pikkus\bin\Debug\net8.0\Pikkus.exe
+C:\Projects\c#\programmeerimine\Pikkus\bin\Debug\net8.0\Pikkus.deps.json
+C:\Projects\c#\programmeerimine\Pikkus\bin\Debug\net8.0\Pikkus.runtimeconfig.json
+C:\Projects\c#\programmeerimine\Pikkus\bin\Debug\net8.0\Pikkus.dll
+C:\Projects\c#\programmeerimine\Pikkus\bin\Debug\net8.0\Pikkus.pdb
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\Pikkus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\Pikkus.AssemblyInfoInputs.cache
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\Pikkus.AssemblyInfo.cs
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\Pikkus.csproj.CoreCompileInputs.cache
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\Pikkus.dll
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\refint\Pikkus.dll
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\Pikkus.pdb
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\Pikkus.genruntimeconfig.cache
+C:\Projects\c#\programmeerimine\Pikkus\obj\Debug\net8.0\ref\Pikkus.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juku", "Juku.csproj", "{1FC99F65-3A90-44C3-8C56-3F36216B6C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC99F65-3A90-44C3-8C56-3F36216B6C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC99F65-3A90-44C3-8C56-3F36216B6C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC99F65-3A90-44C3-8C56-3F36216B6C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC99F65-3A90-44C3-8C56-3F36216B6C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E2C00F-C439-4FBD-B6B4-56B19B880D78}
+	EndGlobalSection
+EndGlobal

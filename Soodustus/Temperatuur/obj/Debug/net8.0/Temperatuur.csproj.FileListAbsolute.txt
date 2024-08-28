@@ -1,0 +1,14 @@
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\Temperatuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\Temperatuur.AssemblyInfoInputs.cache
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\Temperatuur.AssemblyInfo.cs
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\Temperatuur.csproj.CoreCompileInputs.cache
+C:\Projects\c#\programmeerimine\Temperatuur\bin\Debug\net8.0\Temperatuur.exe
+C:\Projects\c#\programmeerimine\Temperatuur\bin\Debug\net8.0\Temperatuur.deps.json
+C:\Projects\c#\programmeerimine\Temperatuur\bin\Debug\net8.0\Temperatuur.runtimeconfig.json
+C:\Projects\c#\programmeerimine\Temperatuur\bin\Debug\net8.0\Temperatuur.dll
+C:\Projects\c#\programmeerimine\Temperatuur\bin\Debug\net8.0\Temperatuur.pdb
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\Temperatuur.dll
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\refint\Temperatuur.dll
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\Temperatuur.pdb
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\Temperatuur.genruntimeconfig.cache
+C:\Projects\c#\programmeerimine\Temperatuur\obj\Debug\net8.0\ref\Temperatuur.dll
